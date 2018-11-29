@@ -1,0 +1,29 @@
+$fontColor: #0091aa;
+$colorHeading: #be4a14;
+$BackgroundColor:  #ac6262;
+#content  // div with id: content
+{
+    color: $fontColor;
+}
+
+h2
+{
+    color: $colorHeading;
+}
+
+h3
+{
+    display: inline;
+}
+
+
+
+.aiScore{
+    padding-left: 600px;
+ 
+    
+}
+
+canvas{
+    background-color: $BackgroundColor;
+}
